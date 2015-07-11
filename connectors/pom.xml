@@ -105,6 +105,7 @@
     <module>translator-simpledb</module>
     <module>translator-accumulo</module>
     <module>translator-solr</module>
+    <module>translator-elasticsearch</module>
     <module>translator-excel</module>
     <module>translator-ws</module>
     <module>translator-olap</module>
